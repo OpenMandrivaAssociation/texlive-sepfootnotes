@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-sepfootnotes
 Version:	0.1
-Release:	2
+Release:	3
 Summary:	Define the texts of footnotes defined before their marks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sepfootnotes
