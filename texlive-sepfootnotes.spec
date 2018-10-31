@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-sepfootnotes
 Version:	0.3c
-Release:	1
+Release:	2
 Summary:	Support footnotes and endnotes from separate files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sepfootnotes
