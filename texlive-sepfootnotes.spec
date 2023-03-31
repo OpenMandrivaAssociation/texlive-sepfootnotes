@@ -1,6 +1,6 @@
 Name:		texlive-sepfootnotes
 Version:	41732
-Release:	1
+Release:	2
 Summary:	Support footnotes and endnotes from separate files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sepfootnotes
