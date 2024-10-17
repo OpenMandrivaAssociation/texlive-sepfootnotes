@@ -3,7 +3,7 @@ Version:	71883
 Release:	1
 Summary:	Support footnotes and endnotes from separate files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sepfootnotes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sepfootnotes
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sepfootnotes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sepfootnotes.doc.r%{version}.tar.xz
